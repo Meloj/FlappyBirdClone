@@ -1,2 +1,2 @@
 # FlappyBirdClone
-Projeto Clone do app Flappy Bird
+Clone of Flappy Bird app in Unity.
